@@ -2,7 +2,7 @@ package cursojava.executavel;
 
 import javax.swing.JOptionPane;
 
-public class PrimeiraClasseJava {
+public class CalculaMedia {
 
 	public static void main(String[] args) {
 			
