@@ -1,4 +1,4 @@
-package cursojava.executavel;
+package CalcMedia;
 
 import javax.swing.JOptionPane;
 
